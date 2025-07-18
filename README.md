@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cropsgg&show_icons=true&locale=en" alt="cropsgg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cropsgg&" alt="cropsgg" /></p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
